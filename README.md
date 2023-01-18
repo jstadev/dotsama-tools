@@ -1,10 +1,18 @@
 # polkadot-tools
-A list of tools that you need to navigate Polkadot Ecosystem
+A list of tools and links that you need to navigate Polkadot Ecosystem, in one place
 
 
 # Polkadot
-| Name  | Website | Explorer | Stake | Dapp | Misc 
+| Parachain  | Website | Explorer | Stake | Dapp | Misc 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
+| Moonbeam  | Content Cell  | 
+| Acala  | Content Cell  |
+
+
+# Kusama
+| Parachain  | Website | Explorer | Stake | Dapp | Misc 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Kilt  | Content Cell  | 
+| Mangata  | Content Cell  |
+
 
