@@ -27,3 +27,4 @@ A list of tools and links that you need to navigate Polkadot Ecosystem, in one p
 | ------------- | ------------- |
 | RMRK  | Content Cell  | 
 | Raresama  | Content Cell  |
+| TofuNFT  | Content Cell  |
