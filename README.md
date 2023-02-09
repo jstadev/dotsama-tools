@@ -2,7 +2,7 @@
 A list of tools and links that you need to navigate Polkadot Ecosystem, in one place
 
 
-# General Toolbox
+# Toolbox
 | Tool  | Website | Misc |
 | ------------- | ------------- | ------------- |
 | SubID  | Content Cell  | 
