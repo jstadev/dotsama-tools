@@ -3,13 +3,13 @@ A list of tools and links that you need to navigate Polkadot Ecosystem, in one p
 
 
 # Toolbox
-| Tool  | Website | Misc |
-| ------------- | ------------- | ------------- |
+| Tool  | Dapp | Github | Docs |
+| ------------- | ------------- | ------------- | ------------- |
 | SubID  | Content Cell  | 
 
 
 # Polkadot
-| Parachain  | Website | Explorer | Stake | Dapp | Github | Whitepaper |  Docs | Twitter | Discord | Telegram | Medium 
+| Parachain  | Website | Explorer | Stake | Dapp | Github | Whitepaper | Docs | Twitter | Discord | Telegram | Medium 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Moonbeam  | Content Cell  | 
 | Acala  | Content Cell  |
