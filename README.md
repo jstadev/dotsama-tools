@@ -3,7 +3,7 @@ A list of tools and links that you need to navigate Polkadot Ecosystem, in one p
 
 
 # Toolbox
-| Tool  | Dapp | Github | Docs |
+| Tool  | Dapp | Github | Doc |
 | ------------- | ------------- | ------------- | ------------- |
 | SubID  | Content Cell  | 
 
